@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Python, Flask, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IGyFIon2sSphR6r0n2PxOGobqkol17IZ/view?usp=sharing](https://drive.google.com/file/d/1IGyFIon2sSphR6r0n2PxOGobqkol17IZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
